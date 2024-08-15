@@ -8,24 +8,24 @@ module.exports = {
     /**
      * bot details and parameters
      */
-    botname: process.env.BotName || "Queen Anya Bot",
-    footer: process.env.Footer || "© Queen Anya Bot",
-    prefa: process.env.Prefix || "-",
-    themeemoji: process.env.ThemeEmoji || "🎐",
+    botname: process.env.BotName || "SCP foundation bot",
+    footer: process.env.Footer || "☀️KUROSAKI•ISRAFEL🌙",
+    prefa: process.env.Prefix || ".",
+    themeemoji: process.env.ThemeEmoji || "❄️",
 
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
+    ownername: process.env.Owner_Name || "Israfel Kurosaki",
+    ownernumber: process.env.Owner_Number || "22896870256",
     instagramId: process.env.Insta || "3.69_pika",
 
     /**
      * other details and parameters
      */
-    author: process.env.Author || "@PikaBotz",
-    packname: process.env.PackName || "Queen Anya v2 MD",
-    socialLink: process.env.Web || "https://github.com/PikaBotz",
+    author: process.env.Author || "@Israfel_Kurosaki",
+    packname: process.env.PackName || "Strawberry Kurosaki🌹",
+    socialLink: process.env.Web || "",
     groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: 5, // default cooldown time per command in seconds
