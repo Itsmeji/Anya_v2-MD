@@ -25,12 +25,12 @@ module.exports = {
      */
     author: process.env.Author || "@Israfel_Kurosaki",
     packname: process.env.PackName || "Strawberry Kurosaki🌹",
-    socialLink: process.env.Web || "",
-    groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
+    socialLink: process.env.Web || "https://chat.whatsapp.com/KLP2Lxg4Fq1JgN9JUq71v4",
+    groupLink: process.env.GcLink || "https://chat.whatsapp.com/KLP2Lxg4Fq1JgN9JUq71v4",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: 5, // default cooldown time per command in seconds
-    mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
-    sessionId: process.env.SESSION_ID || "YOUR_SESSION_ID",
+    mongoUrl: process.env.MongoDB || "mongodb+srv://Dbuser:zruLIXZMd8RvnWqy@atlascluster.osser60.mongodb.net/?retryWrites=true&w=majority",
+    sessionId: process.env.SESSION_ID || "R_Queen-Anya_0pBeDBLSlojNXlPaU9IYmwxdE44R_Queen-Anya_jNCajlFR_Queen-Anya_GxhOVhlcUxLR_Queen-Anya_HpUNXp5VEhPR_Queen-Anya_lV4ek1WOA==",
 
     /**
      * thumbnails and medias
